@@ -1,1 +1,2 @@
 # Loan_Prediction_ML_Project
+This is great ML model that predict load status approve or not, this model tell user your loan has approved or not based on input. To explore end to end code check Loan_Prediction.ipynb file, dataset also upload with "Loan.csv" name if you want to just use model so explore "rf.pll" this is saved model. Some libraries must be intalled such as Numpy, Pandas, Matplotlib, Seaborn and Sciket-learn to use model. In future it will be updated and come with web application
